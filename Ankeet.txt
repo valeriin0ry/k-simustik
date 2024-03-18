@@ -1,0 +1,13 @@
+Esimine nädala päev?:Esmaspäev
+Viimane aasta kuu?:Detsember
+Mis värvi on taevas?:Sinine
+Mitu päeva on nädalas?:Seitse
+Mis linn on Saksamaa pealinn?:Berlin
+Kes ründas Moskvat?:Napoleon
+Kes on teose Marusja Boguslavka autor?:Mazepa
+Mis loom on Hiina sümbol?:Draakon
+Mis linn on Ukraina pealinn?:Kiev
+Mis on minu nimi?:Valera
+Mis aastal algas Teine maailmasõda?:1939
+Mis aastal algas Esimene maailmasõda?:1914
+Kas taevas on sinine?:Jah
