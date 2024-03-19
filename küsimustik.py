@@ -12,6 +12,8 @@ while True:
         punktid, correct_answers = küsimus_vastus(kus_vas, N)
         salvesta(osaleja_nimi, punktid, "Oiged.txt", "Valed.txt")
         print("\nEdukalt läbinud osalejad:")
+        salvesta(osaleja_nimi, punktid, "Oiged.txt", "Valed.txt")
+        print("\nEdukalt läbinud osalejad:")
         with open("Oiged.txt", 'r', encoding='utf-8') as oiged_fail:
             print(oiged_fail.read())
         print("\nEbaõnnestunud osalejad:")
