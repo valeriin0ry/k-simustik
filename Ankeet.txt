@@ -10,4 +10,10 @@ Mis linn on Ukraina pealinn?:Kiev
 Mis on minu nimi?:Valera
 Mis aastal algas Teine maailmasõda?:1939
 Mis aastal algas Esimene maailmasõda?:1914
-Kas taevas on sinine?:JahSkolko hromosom y moego kenta?:5
+Kas taevas on sinine?:Jah
+Skolko hromosom y moego kenta?:5
+Mis on sinu nimi:Valera
+Kas sa oled normaalselt?:Ei
+Mis keel sa õpik?:nothing
+Mis keel sa õppik?:Python
+Mis päev täna on?:Teisipäev

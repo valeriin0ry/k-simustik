@@ -4,15 +4,15 @@ import random
 import smtplib, ssl 
 from email.message import EmailMessage 
 import imghdr
-def send_email(receiver_email, correct_answers):
-    smtp_server="smtp.gmail.com"
-    port=587
+def tulemused_(receiver_email, punktid, osaleja_nimi, hindamine):
+    smtp_server = "smtp.gmail.com"
+    port = 587
     sender_email = "s1ncepr3m@gmail.com"
-    password=input("Kirjuta oma salasõna ja vajuta enter: ")
-    receiver_email=input("Sisesta email: ")
+    password = input("Kirjuta oma salasõna ja vajuta enter: ")
+    receiver_email = input("Sisesta email: ")
     context = ssl.create_default_context()
-    message = f"Siin on teie testi õiged vastused:\n\n{correct_answers}"
-    teema = "Testi õiged vastused"
+    message = f"Tere {osaleja_nimi}, siin on teie testi tulemused:\n\nPunktid: {punktid}\nHinne: {hindamine}"
+    teema = "Testi tulemused"
     msg = EmailMessage()
     msg.set_content(message)
     msg['Subject'] = teema
