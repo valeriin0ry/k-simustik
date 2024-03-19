@@ -10,4 +10,4 @@ Mis linn on Ukraina pealinn?:Kiev
 Mis on minu nimi?:Valera
 Mis aastal algas Teine maailmasõda?:1939
 Mis aastal algas Esimene maailmasõda?:1914
-Kas taevas on sinine?:Jah
+Kas taevas on sinine?:JahSkolko hromosom y moego kenta?:5
